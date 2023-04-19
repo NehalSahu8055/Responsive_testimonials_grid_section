@@ -9,7 +9,7 @@ body{
     background-color: #EDF2F8;
 }
 .container{
-    padding: 164px;
+    padding: 25px;
 }
 .four-cards{
     display: flex;
@@ -102,7 +102,7 @@ body{
 
 @media only screen and (max-width:1000px){
     .container{
-        padding:30px;
+        padding:15px;
     }
     .card-1245, .four-cards, .card-12, .card-45{
         flex-direction: column;
